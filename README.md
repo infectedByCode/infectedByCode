@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @infectedByCode
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @infectedByCode
 
-<!---
-infectedByCode/infectedByCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in ...
+- JavaScript/TypeScript ❤️
+- VueJS / React ❤️
+- Testing Library 🧪
+- Python 🐍
+- Golang 👍
+- Rust 🚲
+
+🌱 I’m currently learning ...
+- Golang
+
+🐼 I also like Pandas 
+
+📫 How to reach me ❓
+
+
