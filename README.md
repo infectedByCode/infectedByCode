@@ -9,7 +9,7 @@
 - Rust 🚲
 
 🌱 I’m currently learning ...
-- Golang
+- TypeScript
 
 🐼 I also like Pandas 
 
