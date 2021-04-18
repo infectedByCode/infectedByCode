@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @infectedByCode
+![Codewars badge](https://www.codewars.com/users/infectedByCode/badges/micro)
 
 👀 I’m interested in ...
 - JavaScript/TypeScript ❤️
