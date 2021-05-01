@@ -12,6 +12,10 @@
 🌱 I’m currently learning ...
 - TypeScript
 
+🎨 What I do...
+- Front end development | Vue/React
+- Back end development | NodeJS/SQL
+
 🐼 I also like Pandas 
 
 📫 How to reach me ❓
