@@ -10,7 +10,7 @@
 - Rust 🚲
 
 🌱 I’m currently learning ...
-- TypeScript
+- TypeScript / Redux
 
 🎨 What I do...
 - Front end development | Vue/React
