@@ -11,6 +11,7 @@
 
 🌱 I’m currently learning ...
 - TypeScript / Redux
+- Tailwind CSS
 
 🎨 What I do...
 - Front end development | Vue/React
